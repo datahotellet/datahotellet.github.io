@@ -1,3 +1,3 @@
 Statistikk for Datahotellet — hotell.difi.no
-- stats_pr_dataset.html
-- stats_pr_org.html
+- [Trafikk-tal pr. datasett](stats_pr_dataset.html)
+- [Trafikk-tal pr. organisasjon](stats_pr_org.html)
