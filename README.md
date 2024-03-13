@@ -16,4 +16,5 @@ Rapporter frå undersøking av Nginx-serverloggar for 14-dagarsperiode.
 
 Vi brukar verktøyet Monsido for statistikk for trafikk på nettsidene.
 På kvardagar er det 80–150 besøkande kvar dag.
+
 ![Skjermbilde frå Monsido for hotell.difi.no](monsido_2024-03-13_10.06.54.png)
