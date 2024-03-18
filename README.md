@@ -4,6 +4,7 @@
 
 - [Trafikk-tal pr. datasett](stats_pr_dataset.html)
 - [Trafikk-tal pr. organisasjon](stats_pr_org.html)
+
 Desse to rapportene er basert på [besøkstal-datasettet](https://data.norge.no/datasets/d0cb26a7-7093-49f9-be1e-c7e9d6b7e473) og [Datahotellet sitt API](http://hotell.difi.no/api).
 Besøkstal vert oppdatert i begynnelsen av kvar månad.
 
@@ -11,7 +12,7 @@ Besøkstal vert oppdatert i begynnelsen av kvar månad.
 
 Det finst også ein uoffisiell nettlesar-plugin som brukar besøkstal-datasettet og viser graf og tabell for trafikk over tid for kvart datasett.
 
-Sjå [post i Datalandsbyen](https://datalandsbyen.norge.no/topic/97/turbo-nettlesar-plugin-for-datahotellet) som har skjerbilder og lenker til å installere.
+Sjå [post i Datalandsbyen](https://datalandsbyen.norge.no/topic/97/turbo-nettlesar-plugin-for-datahotellet) som har skjermbilder og lenker til å installere.
 
 ## Besøk på nettsidene hotell.difi.no
 
