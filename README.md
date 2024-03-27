@@ -21,7 +21,13 @@ På kvardagar er det 80–150 dagleg besøkande.
 
 ![Skjermbilde frå Monsido for hotell.difi.no](monsido_2024-03-13_10.06.54.png)
 
-## Logg-undersøkingar
+## Besøkstal på data.norge.no
+
+Alle datasett i Datahotellet skal ha ei oppføring i data-katalogen på [data.norge.no](https://data.norge.no/).
+Vi brukar Monsido for trafikk-tal, og har ikkje (endå) opplegg for å publisere detaljert statistikk.
+Vi må difor manuelt hente ut tal på kor mange visningar dei enkelte beskrivelsane på data.norge har fått.
+
+## Nginx-logg-undersøkingar
 
 Rapporter frå undersøking av Nginx-serverloggar for 14-dagarsperiode.
 - [ELMA 07.03.2024](elma_nginx.html)
